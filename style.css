@@ -1,0 +1,299 @@
+#all
+{
+    width: 1350px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+}
+#header
+{
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 227px;
+    width: auto;
+}
+#headertop
+{
+    font-size: 10px;
+    font-family: sans-serif;
+    height: 30px;
+    width: auto;
+
+}
+#headertopleft
+{
+    width: 274px;
+    height: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
+#headertopright
+{
+    height: 20px;
+    width: 260px;
+    float: right;
+    padding-top: 10px;
+
+}
+#a
+{
+    color: #3e99e1;
+    text-decoration: none;
+    margin-right: 12px;
+}
+#b
+{
+    color: blue;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#bb1
+{
+    background-image: url("phone.png");
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 35px;
+
+}
+#bb2
+{
+    background-image: url("mail.png");
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 35px;
+}
+#headerbody
+{
+    height: 70px;
+    width: auto;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+#headerbodyleft
+{
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    height: 59px;
+    width: 177px;
+    float: left;
+}
+#menu
+{
+    margin-right: 35px;
+    text-decoration: none;
+    color: #000000;
+}
+#headerbodyright
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+#headerendleft
+{
+    float: left;
+    font-size: 36px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 28px;
+}
+#headerendright
+{
+    float: right;
+    color: white;
+    margin-top: 42px;
+    margin-right: 100px;
+
+}
+#bodyleft
+{
+    width: 882px;
+    height: auto;
+    background-color: #ffffff;
+}
+#bodyright
+{
+    width: 300px;
+    height: 1068px;
+}
+#canchinh
+{
+    width: 840px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#bodyleft-baner
+{
+    font-size: 25px;
+    color: #3e99e1;
+    padding-top: 5px;
+}
+#tl
+{
+    font-size: 12px;
+    color: gainsboro;
+    text-decoration: none;
+    margin-left: 27px;
+}
+#title-left-1
+{
+    background-image: url("clock.png");
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px;
+}
+#title-left-2
+{
+    background-image: url("mat.png");
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px;
+}
+#title-left-3
+{
+    background-image: url("comment.png");
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px;
+}
+#title
+{
+    margin-top: 20px;
+}
+#title-right
+{
+    background-image: url("151.png");
+    background-repeat: no-repeat;
+    float: right;
+    height: 16px;
+    width: 68px;
+}
+#chiadong
+{
+    border-bottom: solid 2px deepskyblue;
+    margin-top: 50px;
+}
+#anh
+{
+    height: 2px;
+    width: 300px ;
+    background: linear-gradient(-90deg ,white,gainsboro);
+}
+#c
+{
+    text-decoration: none;
+    color: #888888;
+}
+#anhh
+{
+    margin-top: 10px;
+}
+#anhhh
+{
+    background-image: url("muiten.png");
+    height: 6px;
+    width: 4px;
+    float: left;
+    margin-top: 8px;
+}
+#doan1
+{
+    font-weight: bold;
+    font-size: 15pt;
+    margin-top: 20px;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+#doan2
+{
+    font-size: 15pt;
+    margin-top: 10px;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+#chuthich
+{
+    margin-left: 425px;
+    font-size: 12pt;
+    color: gainsboro;
+}
+#bottom
+{
+    background-image: url("bottom.png");
+    height: 450px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+
+}
+.fb-like
+{
+    margin-top: 14px;
+    margin-bottom: 15px;
+    float: left;
+}
+#google
+{
+    margin-top: 12px;
+    margin-bottom: 15px;
+    margin-left: 180px;
+}
+#body
+{
+    height: 1430px;
+    width: 1350px;
+
+}
+#bodyright
+{
+    float: right;
+    background-color: #ffffff;
+    margin-right: 140px;
+    margin-top: 20px;
+    width:  300px;
+    height:  auto;
+
+}
+#bodyleft
+{
+    float: left;
+    margin-top: 20px;
+}
+#tieude
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+#anhnoidung
+{
+    height: 40px;
+    width: 40px;
+    float: left;
+    background-image: url("eg1.png");
+    margin-left: 5px;
+}
+#d
+{
+    font-size: 12pt;
+    color: black;
+    margin-left: 55px;
+    line-height: 15px;
+    margin-bottom: 5px;
+}
+#e
+{
+    font-size: 12px;
+    color: gainsboro;
+    margin-left: 55px;
+}
+#noidung
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
