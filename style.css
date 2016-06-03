@@ -1,7 +1,7 @@
 #all
 {
-    width: 1600px;
-    height: auto;
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
     background-color: #f2f2f2;
     padding-bottom: 80px;
@@ -10,18 +10,17 @@
 #header
 {
     background-image: url("background.png");
-    background-repeat: no-repeat;
     background-position: bottom;
     height: 227px;
-    width: 1600px;
-    margin: 0 auto;
+    width: 100%;
 }
 #headertop
 {
     font-size: 10px;
     font-family: sans-serif;
     height: 30px;
-    width: auto;
+    width: 100%;
+    background-color: #2e6da4;
 
 }
 #headertopleft
@@ -73,14 +72,13 @@
 #headerbody
 {
     height: 70px;
-    width: auto;
+    width: 100%;
     background-color: #ffffff;
-    padding-top: 15px;
+    padding-top: 5px;
     padding-bottom: 5px;
 }
 #headerbodyleft
 {
-    background-image: url("logo.png");
     background-repeat: no-repeat;
     height: 59px;
     width: 177px;
@@ -114,6 +112,7 @@
     color: #ffffff;
     margin-top: 42px;
     margin-right: 140px;
+    font-size: 15px;
 
 }
 #bodyleft
@@ -148,60 +147,37 @@
     text-decoration: none;
     margin-left: 27px;
 }
-#title-left-1
-{
-    background-image: url("clock.png");
-    background-repeat: no-repeat;
-    float: left;
-    margin-right: 10px;
-}
-#title-left-2
-{
-    background-image: url("mat.png");
-    background-repeat: no-repeat;
-    float: left;
-    margin-right: 10px;
-}
-#title-left-3
-{
-    background-image: url("comment.png");
-    background-repeat: no-repeat;
-    float: left;
-    margin-right: 10px;
-}
 #title
 {
     margin-top: 20px;
 }
 #title-right
 {
-    background-image: url("151.png");
-    background-repeat: no-repeat;
     float: right;
     height: 16px;
     width: 68px;
 }
-#chiadong
+.chiadong
 {
     border-bottom: solid 2px #00bfff;
-    margin-top: 50px;
+    margin-top: 65px;
 }
-#anh
+.anh
 {
     height: 2px;
     width: 300px ;
     background: linear-gradient(-90deg ,#ffffff,#dcdcdc);
 }
-#c
+.c
 {
     text-decoration: none;
     color: #888888;
 }
-#anhh
+.anhh
 {
     margin-top: 10px;
 }
-#anhhh
+.anhhh
 {
     background-image: url("muiten.png");
     height: 6px;
@@ -234,7 +210,7 @@
 {
     background-image: url("bottom.png");
     height: 450px;
-    width: 1600px;
+    width: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
 
@@ -280,7 +256,7 @@
     margin-top: 5px;
     margin-bottom: 10px;
 }
-#anhnoidung
+.anhnoidung
 {
     height: 40px;
     width: 40px;
@@ -288,7 +264,7 @@
     background-image: url("eg1.png");
     margin-left: 5px;
 }
-#d
+.d
 {
     font-size: 12pt;
     color: #000000;
@@ -297,13 +273,13 @@
     margin-bottom: 5px;
     padding-right: 10px;
 }
-#e
+.e
 {
     font-size: 12px;
     color: #dcdcdc;
     margin-left: 55px;
 }
-#noidung
+.noidung
 {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -312,4 +288,39 @@
 {
     text-decoration: none;
     color: #000000;
+}
+#headertopleft ul li{
+    color: #ffffff;
+}
+#headertopright ul li{
+
+    color: #ffffff;
+}
+#headerbodyright ul li
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #3e99e1;
+}
+.option-header
+{
+    width: 1600px;
+    height: auto;
+    margin: 0 auto;
+}
+.option-all
+{
+    width: 1600px;
+    margin: 0 auto;
+    height: auto;
+}
+#title-left ul li
+{
+    font-size: 12px;
+    color: #adadad;
+}
+#title-left
+{
+    float: left;
 }
